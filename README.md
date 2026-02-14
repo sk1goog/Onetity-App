@@ -25,7 +25,7 @@ Alle Daten werden lokal auf dem Gerät gespeichert. Keine Server, keine Anmeldun
 
 Bei Fragen oder Feedback zur App Onetity:
 
-- **E-Mail:** [Hier deine E-Mail eintragen, z. B. support@example.com]
+- **E-Mail:** sk1goog@icloud.com
 
 ---
 
